@@ -1,1 +1,2 @@
 this is new text file
+ths is another text file
